@@ -1,0 +1,11 @@
+/Users/Sheng/Documents/code/C#/warrior/bin/Debug/netcoreapp2.2/warrior.deps.json
+/Users/Sheng/Documents/code/C#/warrior/bin/Debug/netcoreapp2.2/warrior.runtimeconfig.json
+/Users/Sheng/Documents/code/C#/warrior/bin/Debug/netcoreapp2.2/warrior.runtimeconfig.dev.json
+/Users/Sheng/Documents/code/C#/warrior/bin/Debug/netcoreapp2.2/warrior.dll
+/Users/Sheng/Documents/code/C#/warrior/bin/Debug/netcoreapp2.2/warrior.pdb
+/Users/Sheng/Documents/code/C#/warrior/obj/Debug/netcoreapp2.2/warrior.csprojAssemblyReference.cache
+/Users/Sheng/Documents/code/C#/warrior/obj/Debug/netcoreapp2.2/warrior.csproj.CoreCompileInputs.cache
+/Users/Sheng/Documents/code/C#/warrior/obj/Debug/netcoreapp2.2/warrior.AssemblyInfoInputs.cache
+/Users/Sheng/Documents/code/C#/warrior/obj/Debug/netcoreapp2.2/warrior.AssemblyInfo.cs
+/Users/Sheng/Documents/code/C#/warrior/obj/Debug/netcoreapp2.2/warrior.dll
+/Users/Sheng/Documents/code/C#/warrior/obj/Debug/netcoreapp2.2/warrior.pdb
